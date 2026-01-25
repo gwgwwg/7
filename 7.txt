@@ -1,1 +1,1 @@
-./http https://graph.vshield.pro 50  50 50
+./http https://bambaleila.site 50  50 50
