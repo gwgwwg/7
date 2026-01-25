@@ -18,8 +18,7 @@ fi
 # Cleanup function
 cleanup() {
     echo -e "\nStopping script..."
-    exit 0
-}
+    
 trap cleanup SIGINT SIGTERM
 
 # Main loop
